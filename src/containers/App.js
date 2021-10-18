@@ -1,10 +1,11 @@
-import React,{ Fragment } from 'react';
+import React from 'react';
 
 const App = () => {
+
     return ( 
-        <Fragment>
+        <div>
             
-        </Fragment>
+        </div>
      );
 }
  
